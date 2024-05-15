@@ -6,7 +6,7 @@ export default function Blockchain() {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    fetch("https://github.com/kishore-kumar-v1s1on/routetask/blob/master/public/blockchain.json")
+    fetch("http://localhost:5173/blockchain.json")
       .then((response) => response.json())
       .then((result) => setProducts(result.data))
       .catch((error) => console.log(error));
