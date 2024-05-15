@@ -1,0 +1,145 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "A Guide To Learning Blockchain Technology From Scratch",
+        "mentor": "By Meghana D",
+        "date": "27 Mar, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2020/11/word-image-1-1.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Non-Coding Jobs in Blockchain: Exploring Opportunities Beyond Tech",
+        "mentor": "By Lukesh S",
+        "date": "03 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Blockchain.webp"
+      },
+      {
+        "id": 3,
+        "name": "Best Books to Learn Blockchain",
+        "mentor": "By Lukesh S",
+        "date":  "03 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Best-Books-to-Learn-Blockchain.webp"
+      },
+      {
+        "id": 4,
+        "name": "Blockchain Developer Resume Guide: 11 Hot Tips to Make It Professional",
+        "mentor": "By Meghana D",
+        "date": "04 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/11/FEATURE-IMAGE-1-2-2048x1072.webp"
+      },
+      {
+        "id": 1,
+        "name": "Effective Cloud Computing Career Roadmap 2024",
+        "mentor": "By Meghana D",
+        "date": "27 Mar, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Feature-image-Effective-Cloud-Computing-Career-Roadmap.webp"
+      },
+      {
+        "id": 2,
+        "name": "Top 10 Cloud Computing Project Ideas [2024]",
+        "mentor": "By Lukesh S",
+        "date": "03 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2024/01/feature_image-7.webp"
+      },
+      {
+        "id": 3,
+        "name": "9 Astounding Websites To Learn Cloud Computing in 2024",
+        "mentor": "By Lukesh S",
+        "date":  "03 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Astounding-Websites-To-Learn-Cloud-Computing.png"
+      },
+      {
+        "id": 4,
+        "name": "Top 7 Cloud Computing Tools of 2024",
+        "mentor": "By Meghana D",
+        "date": "04 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Top-Cloud-Computing-Tools.webp"
+      },
+      {
+        "id": 1,
+        "name": "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
+        "mentor": "By Meghana D",
+        "date": "27 Mar, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png"
+      },
+      {
+        "id": 2,
+        "name": "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
+        "mentor": "By Lukesh S",
+        "date": "03 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp"
+      },
+      {
+        "id": 3,
+        "name": "8 Different Types of Cybersecurity and Threats Involved",
+        "mentor": "By Lukesh S",
+        "date":  "03 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png"
+      },
+      {
+        "id": 4,
+        "name": "What is Cybersecurity? Importance and its uses & the growing challenge...",
+        "mentor": "By Meghana D",
+        "date": "04 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif"
+      },
+      {
+        "id": 1,
+        "name": "Top 10 High Paying Non-Coding Jobs in Data Science in 2024",
+        "mentor": "By Meghana D",
+        "date": "27 Mar, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp"
+      },
+      {
+        "id": 2,
+        "name": "Can A Commerce Student Do Data Science?",
+        "mentor": "By Lukesh S",
+        "date": "03 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-2048x1072.png"
+      },
+      {
+        "id": 3,
+        "name": "Top Product-Based Companies for Data Scientists in 2024",
+        "mentor": "By Lukesh S",
+        "date":  "03 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Top-Product-Based-Companies-for-Data-Scientists.webp"
+      },
+      {
+        "id": 4,
+        "name": "Roles and Responsibilities of a Data Scientist",
+        "mentor": "By Meghana D",
+        "date": "04 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png"
+      },
+      {
+        "id": 1,
+        "name": "10 Best DevOps Project Ideas for 2024",
+        "mentor": "By Meghana D",
+        "date": "27 Mar, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/07/DevOps-Project-Ideas-2048x1072.webp"
+      },
+      {
+        "id": 2,
+        "name": "How Long Will It Take to Learn DevOps?",
+        "mentor": "By Lukesh S",
+        "date": "03 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/08/Featured-image-Best-Way-to-Learn-DevOps-2048x1072.webp"
+      },
+      {
+        "id": 3,
+        "name": "Top 16 Product-Based Companies for DevOps Engineers in India",
+        "mentor": "By Lukesh S",
+        "date":  "03 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-Product-Based-Companies-for-DevOps-Engineers-in-India.webp"
+      },
+      {
+        "id": 4,
+        "name": "As a Software Engineer, How Do I Shift My Career to DevOps?",
+        "mentor": "By Meghana D",
+        "date": "04 May, 2024",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/05/2202.i402.018.S.m004.c13.Devops-engineer-flat-composition-2048x1575.jpg"
+      }
+    ]
+  }
+  

@@ -1,0 +1,26 @@
+.navbar-menu {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color: #49557E;
+    font-size: 18px;
+}
+
+.navbar-menu .active {
+    padding-bottom: 2px;
+    border-bottom: 2px solid #49557E;
+}
+.course-display{
+    margin-top: 30px;
+}
+.course-display h2{
+    font-size: max(2vw,24px);
+    font-weight: 600;
+}
+.course-display-list{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    margin-top: 30px;
+    gap: 20px;
+    row-gap: 20px;
+}
